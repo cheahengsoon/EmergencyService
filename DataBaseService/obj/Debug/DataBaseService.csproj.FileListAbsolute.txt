@@ -1,0 +1,15 @@
+C:\Users\emre\documents\visual studio 2012\Projects\Emergency Services\DataBaseService\bin\DataBaseService.dll
+C:\Users\emre\documents\visual studio 2012\Projects\Emergency Services\DataBaseService\bin\DataBaseService.pdb
+C:\Users\emre\documents\visual studio 2012\Projects\Emergency Services\DataBaseService\obj\Debug\DataBaseService.csprojResolveAssemblyReference.cache
+C:\Users\emre\documents\visual studio 2012\Projects\Emergency Services\DataBaseService\obj\Debug\DataBaseService.dll
+C:\Users\emre\documents\visual studio 2012\Projects\Emergency Services\DataBaseService\obj\Debug\DataBaseService.pdb
+C:\Users\ikbal_000\Desktop\Project\Emergency Services\DataBaseService\bin\DataBaseService.dll
+C:\Users\ikbal_000\Desktop\Project\Emergency Services\DataBaseService\bin\DataBaseService.pdb
+C:\Users\ikbal_000\Desktop\Project\Emergency Services\DataBaseService\obj\Debug\DataBaseService.csprojResolveAssemblyReference.cache
+C:\Users\ikbal_000\Desktop\Project\Emergency Services\DataBaseService\obj\Debug\DataBaseService.dll
+C:\Users\ikbal_000\Desktop\Project\Emergency Services\DataBaseService\obj\Debug\DataBaseService.pdb
+C:\Users\emre\Desktop\MyProjectSvn\Emergency Services\DataBaseService\bin\DataBaseService.dll
+C:\Users\emre\Desktop\MyProjectSvn\Emergency Services\DataBaseService\bin\DataBaseService.pdb
+C:\Users\emre\Desktop\MyProjectSvn\Emergency Services\DataBaseService\obj\Debug\DataBaseService.csprojResolveAssemblyReference.cache
+C:\Users\emre\Desktop\MyProjectSvn\Emergency Services\DataBaseService\obj\Debug\DataBaseService.dll
+C:\Users\emre\Desktop\MyProjectSvn\Emergency Services\DataBaseService\obj\Debug\DataBaseService.pdb

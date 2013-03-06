@@ -1,0 +1,5 @@
+C:\Users\emre\Desktop\MyProjectSvn\Emergency Services\DenemeWeb\bin\DenemeWeb.dll
+C:\Users\emre\Desktop\MyProjectSvn\Emergency Services\DenemeWeb\bin\DenemeWeb.pdb
+C:\Users\emre\Desktop\MyProjectSvn\Emergency Services\DenemeWeb\obj\Debug\DenemeWeb.csprojResolveAssemblyReference.cache
+C:\Users\emre\Desktop\MyProjectSvn\Emergency Services\DenemeWeb\obj\Debug\DenemeWeb.dll
+C:\Users\emre\Desktop\MyProjectSvn\Emergency Services\DenemeWeb\obj\Debug\DenemeWeb.pdb

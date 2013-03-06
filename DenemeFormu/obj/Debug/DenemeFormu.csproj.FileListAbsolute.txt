@@ -1,0 +1,9 @@
+C:\Users\emre\Desktop\MyProjectSvn\Emergency Services\DenemeFormu\bin\Debug\DenemeFormu.exe.config
+C:\Users\emre\Desktop\MyProjectSvn\Emergency Services\DenemeFormu\obj\Debug\DenemeFormu.csprojResolveAssemblyReference.cache
+C:\Users\emre\Desktop\MyProjectSvn\Emergency Services\DenemeFormu\obj\Debug\DenemeFormu.Form1.resources
+C:\Users\emre\Desktop\MyProjectSvn\Emergency Services\DenemeFormu\obj\Debug\DenemeFormu.Properties.Resources.resources
+C:\Users\emre\Desktop\MyProjectSvn\Emergency Services\DenemeFormu\obj\Debug\DenemeFormu.csproj.GenerateResource.Cache
+C:\Users\emre\Desktop\MyProjectSvn\Emergency Services\DenemeFormu\bin\Debug\DenemeFormu.exe
+C:\Users\emre\Desktop\MyProjectSvn\Emergency Services\DenemeFormu\bin\Debug\DenemeFormu.pdb
+C:\Users\emre\Desktop\MyProjectSvn\Emergency Services\DenemeFormu\obj\Debug\DenemeFormu.exe
+C:\Users\emre\Desktop\MyProjectSvn\Emergency Services\DenemeFormu\obj\Debug\DenemeFormu.pdb
