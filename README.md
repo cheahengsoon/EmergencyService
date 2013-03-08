@@ -1,3 +1,3 @@
 EmergencyService
 ================
-Acil Servis kullanımı anlatımı. C# mssql kullanıldı.
+Acil Servis kullanımı anlatımı. C#, mssql kullanıldı.
